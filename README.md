@@ -7,10 +7,8 @@ This project is to analyze customer behavior of Megaline users. A model was deve
 ```
 git clone https://github.com/filzamazahir/PhonePlan-DataClassification.git
 ```
-Make sure to have pip installed, then do 
-```
-pip install -r requirements.txt
-```
+Make sure to have pandas, numpy, scikit-learn, and matplotlib libraries installed.
+
 Run ```phoneplan_dataclassification.ipynb```
 
 ## Results
